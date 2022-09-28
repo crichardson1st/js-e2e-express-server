@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/itincglobal/pipelines/_apis/build/status/crichardson1st.js-e2e-express-server?branchName=main)](https://dev.azure.com/itincglobal/pipelines/_build/latest?definitionId=15&branchName=main)
 ---
 page_type: sample
 languages:
